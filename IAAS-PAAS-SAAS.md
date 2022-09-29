@@ -1,3 +1,34 @@
+
+# SaaS
+
+SaaS (Software-as-a-Service)
+
+Bei SaaS wird die Komplete Anwendungen vom Anbieter gehostet und verwaltet.
+
+Der Anbieter ist für sämtliche Updates, Fehlerbehebungen und Wartungen verantwortlich.
+
+Der Nutzer stellt die Verbindung zur App über ein Dashboard oder eine API her
+Beispiele für SaaS:
+- Dropbox
+- Salesforce 
+- Google Apps
+
+
+# Paas
+
+Paas (Platform-as-a-Service)
+
+Bei Paas wird die Hardware und Software als Service über das Internet vom Anbieter gehostet.
+
+Der Anbieter ist für die Umgebung vom Kunden verantwortlich.
+
+Für den Aufbau und das Deployment der Umgebung ist der Anbieter zuständig. 
+
+Beispiele für Paas:
+- WS Elastic Beanstalk
+- Heroku
+
+
 # Iaas
 
 Iaas (Infrastructure-as-a-Service)
@@ -17,34 +48,6 @@ Typische beispiele für Iaas sind
 - Microsoft Azure 
 - Google Cloud.
 
-
-# Paas
-
-Paas (Platform-as-a-Service)
-
-Bei Paas wird die Hardware und Software als Service über das Internet vom Anbieter gehostet.
-
-Der Anbieter ist für die Umgebung vom Kunden verantwortlich.
-
-Für den Aufbau und das Deployment der Umgebung ist der Anbieter zuständig. 
-
-Beispiele für Paas:
-- WS Elastic Beanstalk
-- Heroku
-
-# SaaS
-
-SaaS (Software-as-a-Service)
-
-Bei SaaS wird die Komplete Anwendungen vom Anbieter gehostet und verwaltet.
-
-Der Anbieter ist für sämtliche Updates, Fehlerbehebungen und Wartungen verantwortlich.
-
-Der Nutzer stellt die Verbindung zur App über ein Dashboard oder eine API her
-Beispiele für SaaS:
-- Dropbox
-- Salesforce 
-- Google Apps
 
 ![Grafik](https://user-images.githubusercontent.com/114643531/192953783-40c5357d-b39b-49df-8e75-b02482dc05f8.png)
 
