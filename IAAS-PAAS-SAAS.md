@@ -47,4 +47,5 @@ Beispiele für SaaS:
 - Google Apps
 
 ![Grafik](https://user-images.githubusercontent.com/114643531/192953783-40c5357d-b39b-49df-8e75-b02482dc05f8.png)
+
 [Weitere Informationen](https://www.redhat.com/de/topics/cloud-computing/iaas-vs-paas-vs-saas#iaas)
