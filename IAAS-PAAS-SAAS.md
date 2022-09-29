@@ -1,4 +1,4 @@
-![Iaas-,Paas-,Saaspic]([https://www.redhat.com/cms/managed-files/iaas-paas-saas-diagram5.1-1638x1046.png](https://kinsta.com/wp-content/uploads/2022/06/1.-SaaS-vs-IaaS-vs-PaaS.png))
+![Grafik](https://www.redhat.com/cms/managed-files/iaas-paas-saas-diagram5.1-1638x1046.png](https://kinsta.com/wp-content/uploads/2022/06/1.-SaaS-vs-IaaS-vs-PaaS.png))
 # Iaas
 
 Iaas (Infrastructure-as-a-Service)
